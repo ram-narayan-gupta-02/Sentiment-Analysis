@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ## Google Colab Setup
 ```bash
-!pip install tensorflow streamlit pyngrok scikit-learn pickle5 pandas
+!pip install tensorflow scikit-learn pickle5 pandas
 ```
 
 ---
@@ -79,3 +79,16 @@ pip install -r requirements.txt
 
 ---
 
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🤝 Contributing
+Feel free to contribute by submitting a pull request or reporting issues!
+
+---
+
+## 📩 Contact
+📧 Email: [ramnrngupta@gmail.com](mailto:ramnrngupta@gmail.com)
+📌 Linkedin: [Ram Narayan Gupta](https://linkedin.com/in/ram-narayan-gupta)
