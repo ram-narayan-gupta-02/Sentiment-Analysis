@@ -1,4 +1,5 @@
 # 📜 Sentiment Analysis using LSTM (Kaggle Dataset)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 This repository contains a **Sentiment Analysis Model** using **LSTM (Long Short-Term Memory)** on the **Kaggle Sentiment Analysis Dataset**.  
 The model classifies reviews as **Positive**, **Negative**, or optionally **Neutral**.
