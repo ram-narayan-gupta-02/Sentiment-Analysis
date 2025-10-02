@@ -1,4 +1,4 @@
-# Sentiment Analysis using LSTM (Kaggle Dataset)
+# 📜 Sentiment Analysis using LSTM (Kaggle Dataset)
 
 This repository contains a **Sentiment Analysis Model** using **LSTM (Long Short-Term Memory)** on the **Kaggle Sentiment Analysis Dataset**.  
 The model classifies reviews as **Positive**, **Negative**, or optionally **Neutral**.
