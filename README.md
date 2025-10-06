@@ -56,7 +56,7 @@ The project includes:
 git clone https://github.com/yourusername/Sentiment-Analysis.git
 cd Sentiment-Analysis
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
