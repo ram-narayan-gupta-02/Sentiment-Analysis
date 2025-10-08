@@ -81,16 +81,19 @@ pip install -r requirements.txt
 ---
 
 ## 📜 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
 ## 🤝 Contributing
+
 Feel free to contribute by submitting a pull request or reporting issues!
 
 ---
 
 ## 📩 Contact
+
 **Ram Narayan Gupta**  
 📧 [ramnrngupta@gmail.com](mailto:ramnrngupta@gmail.com)  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ram-narayan-gupta)  
