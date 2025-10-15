@@ -27,9 +27,9 @@ The project includes:
 ├── Dataset
 |    ├── test.csv
 |    └── train.csv
-├── sentiment_analysis.ipynb   # Colab notebook to train the model
-├── tw.keras                   # Trained LSTM model (after training)
-├── requirements.txt           # Python dependencies
+├── sentiment_analysis.ipynb  # Colab notebook to train the model
+├── tw.keras                  # Trained LSTM model (after training)
+├── requirements.txt          # Python dependencies
 └── README.md
 ```
 
